@@ -1,0 +1,1 @@
+shell("service call notification 1", true);//可以用来清除各种app推送的消息
